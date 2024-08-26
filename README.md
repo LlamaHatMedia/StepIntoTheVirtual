@@ -23,13 +23,13 @@ Here you can find different assets that may be useful during your time learning 
 
 - [Useful Links](https://github.com/LlamahatVR/StepIntoTheVirtual/blob/main/resources/Useful%20Links.md)
 
-- [texture files] (https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/textures)
+- [texture files](https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/textures)
 
-- [3d models] (https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/3dmodels)
+- [3d models](https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/3dmodels)
 
 ### Cheatcodes
 In this section there are links to premade project files that show you how these should look by the end.
 
-- [Blender file] (https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/blender)
+- [Blender file](https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/blender)
 
-- [Example Project] (https://github.com/LlamaHatMedia/StepIntoTheVirtual-ExampleProject)
+- [Example Project](https://github.com/LlamaHatMedia/StepIntoTheVirtual-ExampleProject)
