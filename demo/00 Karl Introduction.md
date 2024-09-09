@@ -23,9 +23,9 @@
 
 ## My Modelling Journey
 
-- ![LlamaApartment](demo/images/01_LlamaHome.jpg)
+- ![LlamaApartment](images/01_LlamaHome.jpg)
 
-- ![SONAR - Funktion Junktion](demo/images/01_Centrifuge.jpg)
+- ![SONAR - Funktion Junktion](images/01_Centrifuge.jpg)
 
 ## Inspiration for this Workshop/Demonstration
 
