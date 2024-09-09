@@ -50,7 +50,7 @@ PBR materials use different maps to display different materials:
 ## UVMapping
 UVMapping is described by how a texture is mapped to a model in UV Space. The easiest examples given to describe this process is like peeling an orange skin, or like christmas chocolate santas. It is a texture that gets wrapped around an object.
 
-![Tux, the Linux mascot](demo/images/03_UV_Mapping_Santa.jpg)
+![Tux, the Linux mascot](images/03_UV_Mapping_Santa.jpg)
 > Source: https://x.com/xxivips/status/938366852039888896/photo/1
 
 The UV editor will allow you to choose where each vertex samples its texture coordinate from. The goal of this is to reduce distortion on tiling textures (textures which can be infinitely tiled) and to sample texture positions.

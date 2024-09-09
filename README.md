@@ -27,6 +27,8 @@ Here you can find different assets that may be useful during your time learning 
 
 - [3d models](https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/3dmodels)
 
+Images referenced in this github repo that are stored on github are prepended with the chapter number that they refer to. Thus "03_UV_Mapping_Santa" references chapter "03_Blender"
+
 ### Cheatcodes
 In this section there are links to premade project files that show you how these should look by the end.
 
