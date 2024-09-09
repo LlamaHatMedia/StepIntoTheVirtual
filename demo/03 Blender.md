@@ -20,7 +20,7 @@ Models are made up from points/vertexes in 3d space that are connected by edges 
 
 > Creating models is a lot of trial and error,  you will end up developing your own workflow. It will also get a lot easier the more you use the software and learn keyboard shortcuts.
 
-In edit mode using 1,2,3 on your keyboard allows you to select 1: Vertecies, 2: Edges or, 3: Faces.
+In edit mode using 1,2,3 on your keyboard allows you to select 1: Vertices, 2: Edges or, 3: Faces.
 
 ## Normals & Face Direction
 Unlike a piece of paper which although flat, can be seen from both sides. Game engines need to be told which face is the front and which is the back. This is so that the engine doesn't render faces that are not needed to be rendered as the player can't see them.
