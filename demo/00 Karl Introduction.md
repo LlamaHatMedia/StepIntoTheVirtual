@@ -23,9 +23,17 @@
 
 ## My Modelling Journey
 
-- ![LlamaApartment](images/01_LlamaHome.jpg)
+I started my journey making simple layouts of rooms as it was simple to make.
 
-- ![SONAR - Funktion Junktion](images/01_Centrifuge.jpg)
+![LlamaApartment](images/01_LlamaHome.jpg)
+
+I moved onto making more interesting concept worlds with dynamic audio reactive lighting systems.
+
+![SONAR - Centrifuge](images/01_Centrifuge.jpg)
+
+I am currently at a full stage production section with DMX realtime control of lighting and screens using industry standard lighting & visuals control systems to enhance the performance.
+
+![Club Dark - WIP](images/00_ClubDark.png)
 
 ## Inspiration for this Workshop/Demonstration
 
