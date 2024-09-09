@@ -9,7 +9,7 @@ Examples of SocialVR platforms are:
 ## What is VRChat?
 VRChat is a social platform that allows users to meet in shared virtual environments with fully realized 3d avatars.
 
-![VRChat Banner](images/01_VRChatBanner)
+![VRChat Banner](images/01_VRChatBanner.jpg)
 
 As of August 2024 it is the highest populated platform of its type.
 
