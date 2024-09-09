@@ -23,9 +23,9 @@
 
 ## My Modelling Journey
 
-- Pic of where I started
+- ![LlamaApartment](demo/images/01_LlamaHome.jpg)
 
-- Pic of what I'm doing now
+- ![SONAR - Funktion Junktion](demo/images/01_Centrifuge.jpg)
 
 ## Inspiration for this Workshop/Demonstration
 

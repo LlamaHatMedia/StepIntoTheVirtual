@@ -7,6 +7,9 @@
 - https://hello.vrchat.com/
 - https://vcc.docs.vrchat.com/
 
+## VRChat Creator Companion:
+- https://vrchat.com/download/vcc
+
 ## Modelling:
 - https://www.blender.org/
 
