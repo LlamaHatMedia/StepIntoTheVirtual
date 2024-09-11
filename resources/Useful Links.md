@@ -1,5 +1,4 @@
 # Useful Links:
-
 ## Unity:
 - https://unity.com/
 
@@ -13,7 +12,7 @@
 ## Modelling:
 - https://www.blender.org/
 
-### Toplogy Help:
+### Topology Help:
 - https://topologyguides.com/
 
 ## Texturing:
@@ -24,9 +23,6 @@
 ### Texture Sources:
 - https://3dtextures.me/
 - https://ambientcg.com/
-
-
-## Environmental Artwork:
 
 
 # Karl's Blender Plugin List
