@@ -34,4 +34,4 @@ In this section there are links to premade project files that show you how these
 
 - [Blender file](https://github.com/LlamaHatMedia/StepIntoTheVirtual/tree/main/resources/blender)
 
-- [Example Project](https://github.com/LlamaHatMedia/StepIntoTheVirtual-ExampleProject)
+- [Example Project](https://github.com/LlamaHatMedia/StepIntoTheVirtual-Example)
