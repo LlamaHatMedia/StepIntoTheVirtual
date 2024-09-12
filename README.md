@@ -2,7 +2,7 @@
 An Introduction to Building SocialVR Worlds
 
 ## Introduction
-This repository has been created to acompany a workshop written and delivered by Karl Clarke at the IGGI 2024 Conference at QMUL.
+This repository has been created to acompany a workshop written and delivered by Karl Clarke at the IGGI 2024 Conference at UoY.
 
 ## Contents
 This respository contains instructions to create your own first world for SocialVR application VRChat as of August 2024. This repository contains instructions, assets and reccomendations.
